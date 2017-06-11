@@ -23,4 +23,7 @@
     </definition>
     <definition name="menu" template="/views/menu.jsp">
     </definition>
+
+    <definition name="paging" template="/views/paging.jsp">
+    </definition>
 </tiles-definitions>
